@@ -16,7 +16,7 @@ class SpecialOffers extends StatelessWidget {
           padding:
               EdgeInsets.symmetric(horizontal: getProportionateScreenWidth(20)),
           child: SectionTitle(
-            title: "Special for you",
+            title: "Get Started",
             press: () {},
           ),
         ),
@@ -28,13 +28,13 @@ class SpecialOffers extends StatelessWidget {
               SpecialOfferCard(
                 image: "assets/images/Image Banner 2.png",
                 category: "Smartphone",
-                numOfBrands: 18,
+                percentOff: 18,
                 press: () {},
               ),
               SpecialOfferCard(
                 image: "assets/images/Image Banner 3.png",
                 category: "Fashion",
-                numOfBrands: 24,
+                percentOff: 24,
                 press: () {},
               ),
               SizedBox(width: getProportionateScreenWidth(20)),
@@ -51,12 +51,12 @@ class SpecialOfferCard extends StatelessWidget {
     Key? key,
     required this.category,
     required this.image,
-    required this.numOfBrands,
+    required this.percentOff,
     required this.press,
   }) : super(key: key);
 
   final String category, image;
-  final int numOfBrands;
+  final int percentOff;
   final GestureTapCallback press;
 
   @override
@@ -104,7 +104,7 @@ class SpecialOfferCard extends StatelessWidget {
                             fontWeight: FontWeight.bold,
                           ),
                         ),
-                        TextSpan(text: "$numOfBrands Brands")
+                        TextSpan(text: "$percentOff % Off")
                       ],
                     ),
                   ),
