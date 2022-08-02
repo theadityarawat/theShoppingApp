@@ -40,7 +40,8 @@ List<Product> demoProducts = [
     ],
     title: "HP Pavillion Gaming Laptop 15 ec2008ax",
     price: 54949,
-    description: description,
+    description:
+        "Laptop with ideal specifications for a gamer, student, graphic designer. A powerhouse you'll love.",
     rating: 4.8,
     isFavourite: true,
     isPopular: true,
@@ -61,7 +62,8 @@ List<Product> demoProducts = [
     ],
     title: "Redmi Note 9 Pro(White) 4GB",
     price: 14348,
-    description: description,
+    description:
+        "A phone for the lovers of speed, camera and battery. Get yours now and enjoy blazing fast speed with Cooling 2.0",
     rating: 4.1,
     isPopular: true,
   ),
