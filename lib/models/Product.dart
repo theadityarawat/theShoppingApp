@@ -27,10 +27,10 @@ List<Product> demoProducts = [
   Product(
     id: 1,
     images: [
-      "assets/images/ps4_console_white_1.png",
-      "assets/images/ps4_console_white_2.png",
-      "assets/images/ps4_console_white_3.png",
-      "assets/images/ps4_console_white_4.png",
+      "assets/images/hp_pavillion_1.png",
+      "assets/images/hp_pavillion_2.png",
+      "assets/images/hp_pavillion_3.png",
+      "assets/images/hp_pavillion_4.png",
     ],
     colors: [
       Color(0xFFF6625E),
@@ -38,8 +38,8 @@ List<Product> demoProducts = [
       Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Wireless Controller for PS4™",
-    price: 64.99,
+    title: "HP Pavillion Gaming Laptop 15 ec2008ax",
+    price: 54949,
     description: description,
     rating: 4.8,
     isFavourite: true,
@@ -48,7 +48,10 @@ List<Product> demoProducts = [
   Product(
     id: 2,
     images: [
-      "assets/images/Image Popular Product 2.png",
+      "assets/images/mi_note9_pro_1.png",
+      "assets/images/mi_note9_pro_2.png",
+      "assets/images/mi_note9_pro_3.png",
+      "assets/images/mi_note9_pro_4.png"
     ],
     colors: [
       Color(0xFFF6625E),
@@ -56,8 +59,8 @@ List<Product> demoProducts = [
       Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Nike Sport White - Man Pant",
-    price: 50.5,
+    title: "Redmi Note 9 Pro(White) 4GB",
+    price: 14348,
     description: description,
     rating: 4.1,
     isPopular: true,
