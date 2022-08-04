@@ -80,7 +80,7 @@ List<Product> demoProducts = [
     ],
     title: "Gloves XC Omega - Polygon",
     price: 36.55,
-    description: description,
+    description: "jakhakhoo",
     rating: 4.1,
     isFavourite: true,
     isPopular: true,
@@ -98,11 +98,8 @@ List<Product> demoProducts = [
     ],
     title: "Logitech Head",
     price: 20.20,
-    description: description,
+    description: "Hi",
     rating: 4.1,
     isFavourite: true,
   ),
 ];
-
-const String description =
-    "Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing …";
