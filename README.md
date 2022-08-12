@@ -4,7 +4,8 @@
 A new-age shopping app that focuses on clean and material UI elements to give users a sophisticated experience.
 
 
-![Logo](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/logo.png)
+<br/>
+<img src="https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/logo.png" width="176" height="176">
 
 
 ## Demo
@@ -14,18 +15,18 @@ https://drive.google.com/file/d/1IZ2xJWi4yX9bzNQjBhxFGX98yuqRWske/view?usp=shari
 
 ## Screenshots
 
-Welcome Screen
-![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/welcome_screen.jpg)
-Login Screen
-![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/loginScreen.jpg)
-Login Success(with help of firebase)
-![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/loginSuccess.jpg)
-Home Page
-![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/home.jpg)
-Product Page
-![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/product.jpg)
-Profile Page
-![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/profile.jpg)
+Welcome Screen<br/>
+<img src="https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/welcome_screen.jpg" width="300" height="600"><br/>
+Login Screen<br/>
+<img src="https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/loginScreen.jpg" width="300" height="600"><br/>
+Login Success(with help of firebase)<br/>
+<img src="https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/loginSuccess.jpg" width="300" height="600"><br/>
+Home Page<br/>
+<img src="https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/home.jpg" width="300" height="600"><br/>
+Product Page<br/>
+<img src="https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/product.jpg" width="300" height="600"><br/>
+Profile Page<br/>
+<img src="https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/profile.jpg" width="300" height="600"><br/>
 ## Roadmap
 
 - Option to change color of products
@@ -69,7 +70,7 @@ If you have any feedback, please reach out to at adityarawat313@gmail.com
 
 Contributions are always welcome!
 - Fork the code
-- Create a pull request with detail on changes
+- Create a pull request with detail on changes<br/>
 For the love of development, never misuse GitHub Contributions🙂
 
 
