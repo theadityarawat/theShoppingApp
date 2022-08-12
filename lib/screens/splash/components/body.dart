@@ -15,7 +15,7 @@ class Body extends StatefulWidget {
 class _BodyState extends State<Body> {
   int currentPage = 0;
   List<Map<String, String>> splashData = [
-    {"text": "IIIT Shopping App", "image": "assets/images/splash_1.png"},
+    {"text": "Best Shopping Experience", "image": "assets/images/splash_1.png"},
     {
       "text": "Get incredible offers everytime \nyou shop your favourite items",
       "image": "assets/images/splash_2.png"
