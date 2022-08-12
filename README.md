@@ -4,7 +4,7 @@
 A new-age shopping app that focuses on clean and material UI elements to give users a sophisticated experience.
 
 
-![Logo](https://github.com/theadityarawat/theShoppingApp/blob/master/intro.gif)
+![Logo](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/logo.png)
 
 
 ## Demo
@@ -14,51 +14,29 @@ https://drive.google.com/file/d/1IZ2xJWi4yX9bzNQjBhxFGX98yuqRWske/view?usp=shari
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1KeeKzv_ozAhDAcf44_ugZ9wH9YFkSeV0/view?usp=sharing)
-![App Screenshot](Screenshot%20(54).png)
-![App Screenshot](Screenshot%20(55).png)
-
-
+Welcome Screen
+![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/welcome_screen.jpg)
+Login Screen
+![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/loginScreen.jpg)
+Login Success(with help of firebase)
+![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/loginSuccess.jpg)
+Home Page
+![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/home.jpg)
+Product Page
+![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/product.jpg)
+Profile Page
+![App Screenshot](https://github.com/theadityarawat/theShoppingApp/blob/master/assets/demo/profile.jpg)
 ## Roadmap
 
-- Additional browser support
-
-- Add more integrations
-
-
-## API Reference
-
-#### 
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. N9TmHt20q4YZQGTohYYDOu_RJtWY5pkYIFQIvQbZx7-W |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**.7c74e280-2335-46a9-a5ce-9923d0932117|
-
-
-
+- Option to change color of products
+- Availability of offers based on payment methods
+- Staying signed in on app
+- Adding dark mode
 
 ## Features
 
-- Set-up your own menu
-- Multi-lingual support
-- No storage of data
-- Cross platform
-- Customiazable for use at various sale-points with little changes
-
+- Create a new account or authenticate using existing account
+- Browse products using search bar present at homescreen
 
 ## Feedback
 
@@ -66,60 +44,37 @@ If you have any feedback, please reach out to at adityarawat313@gmail.com
 
 
 ## Run Locally
+#### The Project is best suited to run on Android Studio Chipmunk with emulator, or with a standalone Android Device
+### Running on Android Studio
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
+1. Clone the project
 
 ```bash
-  cd my-project
+  git clone https://https://github.com/theadityarawat/theShoppingApp
 ```
-
-Install dependencies
+2. Start emulator
+3. Run Project on Emulator
+### Running on Android Device
+1. Turn on developer option in Android Device
+2. Clone the project
 
 ```bash
-  npm install
+  git clone https://https://github.com/theadityarawat/theShoppingApp
 ```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
+3. Connect deivce to laptop
+4. Select device in Android Studio
+5. Run the project
 
 ## Contributing
 
 Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-## 🚀 About Me
-I'm a full stack developer...
+- Fork the code
+- Create a pull request with detail on changes
+For the love of development, never misuse GitHub Contributions🙂
 
 
-# Hi, I'm Katherine! 👋
+
+## Acknowledgements
+
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
