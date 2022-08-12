@@ -4,7 +4,7 @@
 A new-age shopping app that focuses on clean and material UI elements to give users a sophisticated experience.
 
 
-![Logo](https://drive.google.com/file/d/1d5fW5zjsVVk7FHcChiFpDfyRyvtnE1iR/view?usp=sharing)
+![Logo](https://github.com/theadityarawat/theShoppingApp/blob/master/intro.gif)
 
 
 ## Demo
